@@ -21,4 +21,6 @@ print("220219 a4: a text added here causes a conflict")
 
 # print("220219 a3 small text added from local -- now")
 
+print("220219 a5: Remote: no conflict happens")
+
 
