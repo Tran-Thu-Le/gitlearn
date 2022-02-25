@@ -23,4 +23,6 @@ print("220219 a4: a text added here causes a conflict")
 
 print("220219 a5: Remote: no conflict happens")
 
+print("220225-Remote-a1: edit")
+
 
