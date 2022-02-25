@@ -24,6 +24,10 @@ print("hello world from hello.py")
 # print("220219 a5: Remote: no conflict happens")
 
 print("220225-Remote-a1: edit")
-print("220225-Remote-a5: edit")
+# <<<<<<< HEAD
+# print("220225-Remote-a5: edit")
+# =======
+print("220225-Remote-a4: edit")
+# >>>>>>> 04596723145b91c92be9e7cf405260fa4cb65740
 
 
